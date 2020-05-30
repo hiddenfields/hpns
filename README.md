@@ -1,5 +1,6 @@
 # hpns
 hpns - selected randomness step sequencer
+(heavily based on parc: https://github.com/monome-community/parc)
 
 requires - norns, grid, crow
 
